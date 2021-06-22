@@ -1,3 +1,79 @@
 * {
   box-sizing: border-box;
+  text-size-adjust: none;
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+}
+
+body {
+  font-family: 'Lora', serif;
+  width: 100%;
+  margin: 1rem auto;
+  padding: 1rem;
+  /* background-color: #fdfcfa; */
+  background-color: #fafafa;
+  color: rgb(39,39,39);
+}
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 4rem;
+  text-shadow: 2px 2px tomato;
+  color: orange;
+  letter-spacing: 0.2px;
+  margin: 0;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 1rem;
+  /* text-shadow: 2px 2px tomato;
+  color: orange; */
+  color: rgb(39,39,39);
+  margin: 0;
+}
+
+hr {
+  height: 1px;
+    color: orange;
+    background-color: orange;
+    border: none;
+}
+
+p {
+  font-weight: 400;
+  font-size: 1.1rem;
+  line-height: 1.6rem;
+}
+
+img {
+  height: 300px;
+  width: 220px;
+}
+
+.books {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.book {
+  /* background-color: white; */
+  /* padding: 10px;
+  margin: 10px; */
+  text-align: center;
+  background-color: white;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem;
+  padding: 1rem;
+  min-width: 200px;
+  min-height: 430px;
 }

@@ -1,17 +1,22 @@
 ---
-title: Index Page
+title: Writes With
 ---
-# Index page
+# WRITES WITH
 
-This is your syte. It has <%= pages.length %> page(s).
+<hr>
+<p>ABOUT</p>
+<hr>
 
-Navigation:
+<div class="books">
 <% for (const page of pages) { _%>
-* [<%= page.title || pathTo(page) %>](<%= pathTo(page) %>)
+    <%if (page.title !== "About" && page.title !== "Writes With") { %>
+<a href="<%= pathTo(page) %>">
+<div class="book">
+    <img src="/interview-photos/<%= page.slug %>-book.jpg" />
+    <p><%= page.work %></p>
+    <p><%= page.title %></p>
+    </div>
+    <% } %>
 <% } _%>
-
-## TODO
-
-- [X] Generate syte project
-- [ ] Customize generated templates
-- [ ] Deploy!
+</div>
+</a>
