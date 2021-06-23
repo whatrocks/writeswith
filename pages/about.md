@@ -12,7 +12,7 @@ It sure is! I chatted with [Daniel](https://waferbaby.com/) before launching Wri
 
 ### Who runs the site?
 
-I'm [Charlie Harrington](https://charlieharrington.com), a computer programmer and writer in San Francisco. I'm interesting in the software (and hardware) used by writers
+I'm [Charlie Harrington](https://charlieharrington.com), a computer programmer and writer in San Francisco.
 
 ### How can I submit an interview?
 
