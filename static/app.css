@@ -7,63 +7,98 @@
 }
 
 body {
-  font-family: 'Lora', serif;
+  font-family: 'Lato', sans-serif;
   width: 100%;
   margin: 1rem auto;
   padding: 1rem;
-  /* background-color: #fdfcfa; */
   background-color: #fafafa;
-  color: rgb(39,39,39);
+  color: rgb(39, 39, 39);
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.5rem;
+}
+
+.main {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+a {
+  color: orange;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.header {
+  text-decoration: none !important;
+  color: orange;
 }
 
 h1 {
-  font-family: 'Raleway', sans-serif;
+  font-family: "Raleway", sans-serif;
   font-size: 4rem;
   text-shadow: 2px 2px tomato;
   color: orange;
   letter-spacing: 0.2px;
   margin: 0;
   text-align: center;
+  line-height: 3rem;
 }
 
 h2 {
-  font-family: 'Raleway', sans-serif;
-  font-size: 1rem;
-  /* text-shadow: 2px 2px tomato;
-  color: orange; */
-  color: rgb(39,39,39);
+  font-size: 1.5rem;
+  letter-spacing: 0.2px;
   margin: 0;
+  font-weight: 600;
+}
+
+.title {
+  text-decoration: none;
+  margin: 0;
+}
+
+.author {
+  text-decoration: none;
+  margin: 0;
+  margin-top: 1rem;
+  font-weight: 800;
 }
 
 hr {
   height: 1px;
-    color: orange;
-    background-color: orange;
-    border: none;
+  color: orange;
+  background-color: orange;
+  border: none;
 }
 
-p {
-  font-weight: 400;
-  font-size: 1.1rem;
-  line-height: 1.6rem;
-}
-
-img {
+.book-image {
   height: 300px;
   width: 220px;
 }
 
+.author-image {
+  width: 300px;
+  border: 1px solid #eee;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 .books {
   display: flex;
+  flex-wrap: wrap;
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
 }
 
 .book {
-  /* background-color: white; */
-  /* padding: 10px;
-  margin: 10px; */
   text-align: center;
   background-color: white;
   border: 1px solid #eee;
@@ -75,5 +110,16 @@ img {
   margin: 1rem;
   padding: 1rem;
   min-width: 200px;
-  min-height: 430px;
+  min-height: 230px;
+}
+
+@media (min-width: 50em) {
+  .book {
+    width: 250px;
+  }
+}
+
+footer {
+  text-align: center;
+  font-size: 0.9rem;
 }

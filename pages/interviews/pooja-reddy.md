@@ -5,7 +5,9 @@ slug: pooja-reddy
 work: The Big Bold Blue
 ---
 
-![Pooja Reddy](/interview-photos/pooja-reddy.jpg)
+<img alt="Pooja Reddy" src="/interview-photos/pooja-reddy.jpg" class="author-image"/>
+
+## Pooja Reddy
 
 ### Who are you, and what did you write?
 

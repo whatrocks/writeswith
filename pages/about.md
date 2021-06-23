@@ -2,7 +2,7 @@
 title: About
 ---
 
-Writes With is a little interview site asking writers about the tools and practices they use to get the writing -- and editing -- done.
+Writes With is a little site to ask writers about the tools and practices they use to get the writing -- and the edits -- done. Maybe you'll find some tips in here. I sure hope so!
 
 ## FAQ
 
@@ -12,7 +12,7 @@ It sure is! I chatted with [Daniel](https://waferbaby.com/) before launching Wri
 
 ### Who runs the site?
 
-I'm [Charlie Harrington](https://charlieharrington.com), a computer programmer and writer in San Francisco.
+I'm [Charlie Harrington](https://charlieharrington.com), a computer programmer and writer in San Francisco. I'm interesting in the software (and hardware) used by writers
 
 ### How can I get in touch?
 
@@ -20,5 +20,9 @@ Reach out to [Charlie on Twitter](https://twitter.com/whatrocks).
 
 ### What do you use to make this site?
 
-My friend Ben Reinhart's static site generator.
-Google fonts
+A couple things:
+
+* [Stye](https://benreinhart.com/syte) (Static site generator) - created by my pal Ben Reinhart!
+* Google Fonts (Fonts)
+* GitHub (Source Control)
+* CloudFlare Pages (Hosting)

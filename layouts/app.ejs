@@ -1,13 +1,35 @@
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title><%= title %></title>
-    <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,900&family=Lora:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Raleway:ital,wght@1,900&display=swap" rel="stylesheet">
     <link href="<%= pathTo("app.css") %>" rel="stylesheet">
   </head>
   <body>
-    <%- body %>
+    <h1><a class="header" href="/">WRITES WITH</a></h1>
+    <div class="main"><%- body %></div>
+    <hr />
+    <footer>
+      <div>
+        The Writes With interviews (excluding images) are available via the
+        <a>Attribution-NonCommercial-NoDerivatives</a> license. Images are
+        provided by the interviewees.
+      </div>
+      <div>
+        <a href="/about" class="footer-link">About</a>
+        <span>&nbsp;•&nbsp;</span>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://github.com/whatrocks/writeswith/blob/main/CONTRIBUTING.md"
+          class="footer-link"
+          >Contributing</a
+        >
+      </div>
+    </footer>
   </body>
 </html>
