@@ -14,7 +14,7 @@ It sure is! I chatted with [Daniel](https://waferbaby.com/) before launching Wri
 
 I'm [Charlie Harrington](https://charlieharrington.com), a computer programmer and writer in San Francisco. I'm interesting in the software (and hardware) used by writers
 
-### How can I get in touch?
+### How can I submit an interview?
 
 Reach out to [Charlie on Twitter](https://twitter.com/whatrocks).
 
@@ -26,3 +26,7 @@ A couple things:
 * Google Fonts (Fonts)
 * GitHub (Source Control)
 * CloudFlare Pages (Hosting)
+
+### Are you looking for any help?
+
+Yes! Check out our [contributing page](https://github.com/whatrocks/writeswith/blob/main/CONTRIBUTING.md) for some ideas.
