@@ -22,7 +22,7 @@ Reach out to [Charlie on Twitter](https://twitter.com/whatrocks).
 
 A couple things:
 
-* [Stye](https://benreinhart.com/syte) (Static site generator) - created by my pal Ben Reinhart!
+* [Syte](https://benreinhart.com/syte) (Static site generator) - created by my pal Ben Reinhart!
 * Google Fonts (Fonts)
 * GitHub (Source Control)
 * CloudFlare Pages (Hosting)
