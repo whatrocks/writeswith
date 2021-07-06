@@ -3,6 +3,7 @@ title: Pooja Reddy
 genre: Children
 slug: pooja-reddy
 work: The Big Bold Blue
+date: "2021-06-23"
 ---
 
 <img alt="Pooja Reddy" src="/interview-photos/pooja-reddy.jpg" class="author-image"/>

@@ -2,7 +2,11 @@
 title: Writes With
 ---
 <div class="books">
-<% for (const page of pages) { _%>
+<% pages.sort((a,b) => {
+    if (a.date > b.date) return -1;
+    if (a.date < b.date) return 1;
+    return 0;
+}).forEach(function(page) { _%>
     <%if (page.title !== "About" && page.title !== "Writes With") { %>
 <a href="<%= pathTo(page) %>">
 <div class="book">
@@ -10,6 +14,6 @@ title: Writes With
     <p class="author"><%= page.title %></p>
     </div>
     <% } %>
-<% } _%>
+<% }); _%>
 </div>
 </a>
