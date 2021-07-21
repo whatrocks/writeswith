@@ -90,6 +90,17 @@ hr {
   margin-bottom: 1rem;
 }
 
+.other-image {
+  /* width: 300px; */
+  border: 1px solid #eee;
+  padding: 10px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
 .books {
   display: flex;
   flex-wrap: wrap;
