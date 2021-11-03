@@ -6,7 +6,7 @@ work: The Warehouse
 date: "2021-07-29"
 ---
 
-<img alt="Rob Hart" src="/interview-photos/rob-hart.jpg" class="author-image"/>
+![Rob Hart](/interview-photos/rob-hart.jpg)
 
 ## Rob Hart
 

@@ -6,7 +6,7 @@ work: "The Scavenger Door"
 date: "2021-08-23"
 ---
 
-<img alt="Suzanne Palmer" src="/interview-photos/suzanne-palmer.jpg" class="author-image"/>
+![Suzanne Palmer](/interview-photos/suzanne-palmer.jpg)
 
 ## Suzanne Palmer
 

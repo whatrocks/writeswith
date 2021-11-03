@@ -6,7 +6,7 @@ work: How to Not Die Alone
 date: "2021-07-15"
 ---
 
-<img alt="Logan Ury" src="/interview-photos/logan-ury.jpg" class="author-image"/>
+![Logan Ury](/interview-photos/logan-ury.jpg)
 
 ## Logan Ury
 

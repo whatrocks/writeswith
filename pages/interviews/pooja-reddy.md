@@ -6,7 +6,7 @@ work: The Big Bold Blue
 date: "2021-06-22"
 ---
 
-<img alt="Pooja Reddy" src="/interview-photos/pooja-reddy.jpg" class="author-image"/>
+![Pooja Reddy](/interview-photos/pooja-reddy.jpg)
 
 ## Pooja Reddy
 

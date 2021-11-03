@@ -6,7 +6,7 @@ work: Living in Data
 date: "2021-07-21"
 ---
 
-<img alt="Jer Thorp" src="/interview-photos/jer-thorp.jpg" class="author-image"/>
+![Jer Thorp](/interview-photos/jer-thorp.jpg)
 
 ## Jer Thorp
 
@@ -22,7 +22,7 @@ There are a series of graphics in the book, which were mostly made with [Process
 
 *“Open the window and let the words in. Let them flow into the room in a stream, all of the words, hundreds of thousands of them, let them fill the space, let them hang in the air, tiny sparkling motes of language. Let them drift, and organize. Let them be carried by eddies of usage and syntax until they find a place to rest. When they’ve settled, when they’ve coated every surface like ash, get up and walk the room, see each word and its neighbors, read the room like a map.”*
 
-<img alt="Let Them Fill the Space" src="/interview-photos/jer-thorp-data.png" class="other-image"/>
+![Let Them Fill the Space](/interview-photos/jer-thorp-data.png)
 
 A piece of real hardware I depended on was a plastic bin full of index cards. Everytime I found a quote or an idea I liked, or came up with a question I couldn’t answer, I’d write it on a card and put it into the box. When I was ready to draft the final manuscript, I spent a few days transcribing these cards, which was a really nice way to get my thoughts together.
 

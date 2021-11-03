@@ -14,8 +14,8 @@ Same as above. I'm open to PR's.
 
 The things on my todo-list are:
 
-* RSS Feed
-* Static JSON API
+* [x] RSS Feed
+* [ ] Static JSON API
 
 ---
 

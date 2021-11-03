@@ -6,7 +6,7 @@ work: "Rust for Rustaceans"
 date: "2021-09-20"
 ---
 
-<img alt="Jon Gjengset" src="/interview-photos/jon-gjengset.jpg" class="author-image"/>
+![Jon Gjengset](/interview-photos/jon-gjengset.jpg)
 
 ## Jon Gjengset
 

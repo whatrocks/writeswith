@@ -6,7 +6,7 @@ work: "The Nova Incident"
 date: "2021-08-30"
 ---
 
-<img alt="Dan Moren" src="/interview-photos/dan-moren.jpg" class="author-image"/>
+![Dan Moren](/interview-photos/dan-moren.jpg)
 
 ## Dan Moren
 

@@ -74,12 +74,8 @@ hr {
   border: none;
 }
 
-.book-image {
-  height: 300px;
-  width: 220px;
-}
 
-.author-image {
+img {
   width: 300px;
   border: 1px solid #eee;
   padding: 10px;
@@ -88,25 +84,6 @@ hr {
   margin-right: auto;
   margin-top: 1rem;
   margin-bottom: 1rem;
-}
-
-.other-image {
-  /* width: 300px; */
-  border: 1px solid #eee;
-  padding: 10px;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-}
-
-.books {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  align-items: flex-start;
-  justify-content: center;
 }
 
 .book {
@@ -123,6 +100,32 @@ hr {
   min-width: 200px;
   min-height: 230px;
 }
+
+.book img {
+  border: none;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+
+.book-image {
+  height: 300px;
+  width: 220px;
+}
+
+.other-image img {
+  width: 100%;
+}
+
+.books {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+
 
 @media (min-width: 50em) {
   .book {

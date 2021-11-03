@@ -6,7 +6,7 @@ work: "City of Illusion"
 date: "2021-09-02"
 ---
 
-<img alt="Victoria Ying" src="/interview-photos/victoria-ying.jpg" class="author-image"/>
+![Victoria Yang](/interview-photos/victoria-yang.jpg)
 
 ## Victoria Ying
 

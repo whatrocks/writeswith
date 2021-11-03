@@ -6,7 +6,7 @@ work: Recipe For Disaster
 date: "2021-07-06"
 ---
 
-<img alt="Aimee Lucido" src="/interview-photos/aimee-lucido.jpg" class="author-image"/>
+![Aimee Lucido](/interview-photos/aimee-lucido.jpg)
 
 ## Aimee Lucido
 

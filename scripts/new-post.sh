@@ -25,7 +25,7 @@ work: \"${work}\"
 date: \"${TODAY}\"
 ---
 
-<img alt=\"${title}\" src=\"/interview-photos/${slug}.jpg\" class=\"author-image\"/>
+![${title}](/interview-photos/${slug}.jpg)})
 
 ## ${title}
 

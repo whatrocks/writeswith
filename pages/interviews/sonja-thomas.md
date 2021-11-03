@@ -6,7 +6,7 @@ work: "Sir Fig Newton and the Science of Persistence"
 date: "2021-10-07"
 ---
 
-<img alt="Sonja Thomas" src="/interview-photos/sonja-thomas.jpg" class="author-image"/>
+![Sonja Thomas](/interview-photos/sonja-thomas.jpg)
 
 ## Sonja Thomas
 

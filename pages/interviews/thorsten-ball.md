@@ -6,7 +6,7 @@ work: "Writing A Compiler in Go"
 date: "2021-08-19"
 ---
 
-<img alt="Thorsten Ball" src="/interview-photos/thorsten-ball.jpg" class="author-image"/>
+![Thorsten Ball](/interview-photos/thorsten-ball.jpg)
 
 ## Thorsten Ball
 

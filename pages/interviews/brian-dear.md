@@ -6,7 +6,7 @@ work: The Friendly Orange Glow
 date: "2021-06-23"
 ---
 
-<img alt="Brian Dear" src="/interview-photos/brian-dear.jpg" class="author-image"/>
+![Brian Dear](/interview-photos/brian-dear.jpg)
 
 ## Brian Dear
 

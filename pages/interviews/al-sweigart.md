@@ -6,7 +6,7 @@ work: "Automate the Boring Stuff with Python"
 date: "2021-08-28"
 ---
 
-<img alt="Al Sweigart" src="/interview-photos/al-sweigart.jpg" class="author-image"/>
+![Al Sweigart](/interview-photos/al-sweigart.jpg)
 
 ## Al Sweigart
 
