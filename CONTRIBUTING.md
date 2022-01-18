@@ -12,7 +12,7 @@ Submit a pull request! I'm very open to any and all suggestions for improving th
 
 Same as above. I'm open to PR's.
 
-The things on my todo-list are:
+Some current ideas:
 
 * [x] RSS Feed
 * [ ] Static JSON API
