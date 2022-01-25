@@ -1,5 +1,5 @@
 # writeswith
-interviews with writers
+interviews with writers about their tools
 
 ## Local development
 
