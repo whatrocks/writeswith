@@ -10,7 +10,7 @@ date: "2021-08-19"
 
 ## Thorsten Ball
 
-### Who are you, and what did you write
+### Who are you, and what did you write?
 
 ​​My name is Thorsten Ball. I’m a software engineer and wrote [Writing An Interpreter In Go](https://interpreterbook.com/) and its sequel [Writing A Compiler In Go](https://compilerbook.com/).
 

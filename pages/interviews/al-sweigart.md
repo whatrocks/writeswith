@@ -10,7 +10,7 @@ date: "2021-08-28"
 
 ## Al Sweigart
 
-### Who are you, and what did you write
+### Who are you, and what did you write?
 
 I'm [Al Sweigart](https://alsweigart.com/). I write books that teach kids and office workers to program. I'm mostly known for [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/), but I've written several other programming books as well. I make them all freely available under a Creative Commons license on my [website](https://inventwithpython.com).
 

@@ -10,7 +10,7 @@ date: "2021-08-30"
 
 ## Dan Moren
 
-### Who are you, and what did you write
+### Who are you, and what did you write?
 
 Hi there! I’m Dan Moren, author of the Galactic Cold War series of sci-fi espionage adventures, the latest installment of which is [The Aleph Extraction](https://dmoren.com/the-aleph-extraction/) which came out in May 2020. The next book, [The Nova Incident](https://dmoren.com/the-nova-incident/), arrives in July 2022. I’m also a technology journalist by trade, which is very similar to being a sci-fi writer, but with fewer laser guns than you’d hope. I freelance for a few different places, but my writing can predominantly be found at [Six Colors](https://sixcolors.com), or on Macworld, where I used to be a senior editor but continue to pen my column, [Stay Foolish](https://www.macworld.com/author/Dan-Moren), most weeks.
 

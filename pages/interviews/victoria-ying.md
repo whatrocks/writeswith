@@ -10,7 +10,7 @@ date: "2021-09-02"
 
 ## Victoria Ying
 
-### Who are you, and what did you write
+### Who are you, and what did you write?
 
 My name is [Victoria Ying](https://www.victoriaying.com/) and I write and illustrate YA and Middle Grade graphic novels! 
 
