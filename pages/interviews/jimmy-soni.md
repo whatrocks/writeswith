@@ -10,7 +10,7 @@ date: "2021-12-24"
 
 ## Jimmy Soni
 
-### Who are you, and what did you write
+### Who are you, and what did you write?
 
 My name is Jimmy Soni, and I’ve written a few different things over the years. Primarily, my longest written work is in the form of books. I focus on histories, mostly, and generally, my ideas come from searching for a book I want to read—and not finding it. 
 

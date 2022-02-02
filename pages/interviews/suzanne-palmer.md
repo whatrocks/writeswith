@@ -10,7 +10,7 @@ date: "2021-08-23"
 
 ## Suzanne Palmer
 
-### Who are you, and what did you write
+### Who are you, and what did you write?
 
 I’m [Suzanne Palmer](http://zanzjan.net/), and I write primarily space-opera style Science Fiction, with occasional dips into Hard SF, Fantasy, and horror. My latest book is the third in the Finder Chronicles, [THE SCAVENGER DOOR](http://zanzjan.net/writing/scavenger-door.html), which came out on Aug. 17th 2021 from DAW Books.
 

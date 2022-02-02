@@ -10,7 +10,7 @@ date: "2021-09-20"
 
 ## Jon Gjengset
 
-### Who are you, and what did you write
+### Who are you, and what did you write?
 
 I’m [Jon Gjengset](https://thesquareplanet.com/), and I’m primarily known as a guy who does programming education through [live coding videos](https://www.youtube.com/c/JonGjengset). I just (as of September 2021) finished writing [Rust for Rustaceans](https://nostarch.com/rust-rustaceans), a book aimed at teaching those who already know the [Rust programming language](https://www.rust-lang.org/) how to make better use of it and understand more of the underlying building blocks.
 

@@ -25,11 +25,11 @@ work: \"${work}\"
 date: \"${TODAY}\"
 ---
 
-![${title}](/interview-photos/${slug}.jpg)})
+![${title}](/interview-photos/${slug}.jpg)
 
 ## ${title}
 
-### Who are you, and what did you write
+### Who are you, and what did you write?
 
 TBD
 

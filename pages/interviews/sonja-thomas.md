@@ -10,7 +10,7 @@ date: "2021-10-07"
 
 ## Sonja Thomas
 
-### Who are you, and what did you write
+### Who are you, and what did you write?
 
 My name is [Sonja Thomas](https://www.bysonjathomas.com/) and I’m a silly introvert who runs on coffee and hugs. I love to dance and sing along with music blasting in the living room. Every time I travel somewhere new (from the Oregon Coast to Iceland), I buy a magnet before leaving. The ocean is my happy place and I squeal every time I see an adorable animal (Squirrel!).
 
