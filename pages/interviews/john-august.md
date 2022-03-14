@@ -30,7 +30,7 @@ Some tools I love include [RhymeZone](https://www.rhymezone.com) (for rhyming), 
 
 ### When and where do you write?
 
-I mostly write in my home office, a room above the garage. There I have my iMac with my [strange keyboard](http://safetype.com) that helps keep my wrists from going crazy. 
+I mostly write in my home office, a room above the garage. There I have my iMac with my strange keyboard that helps keep my wrists from going crazy. 
 
 I try not to be too precious about my writing environment, so habits don’t become excuses. I’ll write by hand if I need to, or on my MacBook in the car while my daughter is at climbing practice. Whatever gets the words out is what matters.
 
