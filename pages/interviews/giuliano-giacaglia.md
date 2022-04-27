@@ -12,7 +12,7 @@ date: "2022-04-27"
 
 ### Who are you, and what did you write?
 
-My name is [Giuliano](nf.td/giu), and I'm an engineer by training. I’ve written [Making Things Think](https://www.holloway.com/b/making-things-think). It is a detailed yet approachable explanation for the intelligent reader of how machine learning algorithms work, how they arise, and where they are going.
+My name is [Giuliano](https://nf.td/giu), and I'm an engineer by training. I’ve written [Making Things Think](https://www.holloway.com/b/making-things-think). It is a detailed yet approachable explanation for the intelligent reader of how machine learning algorithms work, how they arise, and where they are going.
 
 ### What hardware and software do you write with?
 
